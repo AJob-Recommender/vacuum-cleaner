@@ -1,0 +1,193 @@
+0:Business Analysis
+1:Agile Methodologies
+2:MySQL
+3:SSRS
+4:Microsoft Excel
+5:NoSQL
+6:AWS CloudFormation
+7:HTML5
+8:Data Science
+9:Image Processing
+10:Linux
+11:PySpark
+12:Technical Leadership
+13:Social Network Analysis
+14:Data Analytics
+15:WPF
+16:Shell Scripting
+17:Programming Languages
+18:React.js
+19:Computer Vision
+20:Redis
+21:Financial Reporting
+22:Scala
+23:DB2
+24:Bootstrap
+25:Software Design
+26:Hive
+27:Training
+28:SQLite
+29:Apache Kafka
+30:AWS
+31:QlikView
+32:git
+33:MLOps
+34:Microsoft Word
+35:python
+36:Supply Chain Management
+37:C#
+38:Apache Spark
+39:Scikit-Learn
+40:Architectural Design
+41:Microsoft Office
+42:Data Warehouse
+43:Map reduce
+44:Java
+45:Analytics
+46:Predictive Analytics
+47:PL/SQL
+48:Operations Management
+49:Requirements Gathering
+50:Requirements Analysis
+51:Unsupervised Learning
+52:Datalake
+53:C
+54:Git
+55:Business Development
+56:Database Design
+57:Search Engine Optimization (SEO)
+58:Big Data
+59:Analysis
+60:Business Writing
+61:MapReduce
+62:SAS Programming
+63:Informatica
+64:ETL
+65:Zeppelin
+66:VB.NET
+67:Apache Sqoop
+68:Data Analysis
+69:Hadoop
+70:Apache Airflow
+71:Artificial Intelligence (AI)
+72:Cascading Style Sheets (CSS)
+73:Data Pipelines
+74:OpenCV
+75:Data Integration
+76:Algorithms
+77:SQL
+78:CentOS
+79:Extract, Transform, Load (ETL)
+80:Github
+81:jQuery
+82:Keras
+83:SAP
+84:Microsoft PowerPoint
+85:XML
+86:HTML
+87:PostgreSQL
+88:HBase
+89:Tableau
+90:Apache ZooKeeper
+91:HDFS
+92:COBOL
+93:Data Engineering
+94:Visual Studio
+95:Project Management
+96:Amazon Web Services
+97:LINQ
+98:T-SQL
+99:SAP HANA
+100:CSS
+101:Front-end Development
+102:Statistical Data Analysis
+103:Scrum
+104:AngularJS
+105:Apache Oozie
+106:Laravel
+107:Apache NiFi
+108:Dataops
+109:Amazon Web Services (AWS)
+110:Matlab
+111:Management Consulting
+112:Machine Learning
+113:C++
+114:Data Structures
+115:Entity Framework
+116:R
+117:Finance
+118:Performance Tuning
+119:Tomcat
+120:Data Mining
+121:Data Warehousing
+122:Financial Analysis
+123:Strategic Planning
+124:Healthcare
+125:Recommender Systems
+126:Microsoft SQL Server
+127:Apache Ambari
+128:Business Intelligence
+129:JIRA
+130:Pattern Recognition
+131:JavaScript
+132:Database Administration
+133:Banking
+134:Cloudera Impala
+135:Yarn
+136:SSIS
+137:ASP.NET
+138:Research
+139:Front-End Development
+140:Cisco Networking
+141:Insurance
+142:MVC
+143:Communication
+144:Django
+145:Engineering
+146:WCF
+147:Software Development
+148:Unit Testing
+149:Web Services
+150:Data Visualization
+151:Natural Language Processing (NLP)
+152:Reporting &amp; Analysis
+153:Big Data Analytics
+154:Android Development
+155:Public Speaking
+156:Pandas
+157:Flume
+158:MongoDB
+159:Back-End Web Development
+160:java
+161:Data Preprocessing
+162:Apache Zeppelin
+163:Testing
+164:Network Administration
+165:Programming
+166:Oracle
+167:TensorFlow
+168:Solution Architecture
+169:Distributed Systems
+170:Graph Databases
+171:Amazon ECS
+172:Snowflake
+173:Python (Programming Language)
+174:Consulting
+175:Robotics
+176:Artificial Intelligence
+177:Problem Solving
+178:Mahout
+179:UML
+180:ASP.NET MVC
+181:SAP BI Suite
+182:Event Planning
+183:Supervised Learning
+184:Databases
+185:MicroStrategy Reporting
+186:Data Modeling
+187:PHP
+188:Deep Learning
+189:Data Migration
+190:Business Strategy
+191:Python
+192:Internet of Things

@@ -1,0 +1,32 @@
+0:MySQL
+1:Web Design
+2:Communication
+3:Engineering
+4:Software Development
+5:HTML5
+6:Front-end Development
+7:AngularJS
+8:React.js
+9:MongoDB
+10:Apache Airflow
+11:Hadoop
+12:.NET Framework
+13:SignalR
+14:Cascading Style Sheets (CSS)
+15:.NET Core
+16:Back-End Web Development
+17:SQL
+18:Programming
+19:Entity Framework
+20:Bootstrap
+21:Training
+22:Python (Programming Language)
+23:C#
+24:Apache Spark
+25:ASP.NET MVC
+26:Grafana
+27:HTML
+28:Language Integrated Query (LINQ)
+29:JavaScript
+30:Angular
+31:Research

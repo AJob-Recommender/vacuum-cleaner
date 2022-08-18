@@ -1,0 +1,121 @@
+0:Burp Suite
+1:MySQL
+2:Camunda BPM
+3:OOP
+4:HTML5
+5:Tailwind CSS
+6:Data Science
+7:Linux
+8:Retrofit
+9:React.js
+10:Operating Systems
+11:SignalR
+12:Asp.net identity
+13:Web Applications
+14:Familiar with reflection, exception handling using custom middlewares, Identity, automapper, autofac, automatic validation, JWT and JWE, API versioning, OAuth, NLog, setntry.io, standard API resulting
+15:Swift (Programming Language)
+16:Bootstrap
+17:Material-UI
+18:Entity Framework (EF) Core
+19:C#
+20:Language Integrated Query (LINQ)
+21:Software Design Patterns
+22:Java
+23:Angular Material
+24:RxJava
+25:Angular
+26:web application penetration testing
+27:Arduino
+28:C
+29:Git
+30:MERN Stack
+31:Three.js
+32:Database Design
+33:Search Engine Optimization (SEO)
+34:Networking
+35:Redux Thunk
+36:Data Analysis
+37:Cascading Style Sheets (CSS)
+38:SQL
+39:BPMN
+40:Github
+41:asp.net core Web API
+42:jQuery
+43:Microsoft PowerPoint
+44:Metasploit
+45:Familiar with the processes of ERP modules such as accounting, logistics, asset management and treasury.
+46:HTML
+47:Visual Studio
+48:Android Studio
+49:Bug Bounty Hunter
+50:CSS
+51:Bash
+52:Front-end Development
+53:TypeScript
+54:AngularJS
+55:Laravel
+56:PhpStorm
+57:Pandas (Software)
+58:Matlab
+59:Entity Framework
+60:Machine Learning
+61:C++
+62:CSS Flexbox
+63:Sass
+64:Data Mining
+65:Web Application Security
+66:Object Oriented Design
+67:JSP
+68:Microsoft SQL Server
+69:NetBeans
+70:Git, TFS, Jira, Microsoft Azure task management
+71:Grafana
+72:Illustrator
+73:JavaScript
+74:Object-Oriented Programming (OOP)
+75:Database Administration
+76:Javascript
+77:Kotlin
+78:ASP.NET
+79:CodeIgniter
+80:Data Structures and algorithms
+81:AJAX
+82:JSON
+83:SEO
+84:Web Design
+85:GitHub
+86:Visual Paradigm
+87:Django
+88:Software Development
+89:Design Patterns
+90:Apache
+91:Web Services
+92:Scala (Programming Language)
+93:Windows Presentation Foundation (WPF)
+94:Android Development
+95:twitter bootstrap
+96:Web Servers
+97:Marketing
+98:MongoDB
+99:Back-End Web Development
+100:ECMAScript
+101:.NET Framework
+102:Database Management System (DBMS)
+103:Express.js
+104:.NET Core
+105:WordPress
+106:Augmented Reality (AR)
+107:Redux.js
+108:Programming
+109:MariaDB
+110:Nginx
+111:Python (Programming Language)
+112:Microsoft Visual Studio Code
+113:ASP.NET WEB API
+114:ASP.NET MVC
+115:Transact-SQL (T-SQL)
+116:Node.js
+117:PHP
+118:Photoshop
+119:Web Development
+120:Mobile Application Development
