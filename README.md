@@ -9,7 +9,7 @@ In order to build a machine learning model, we need to form our data to what we 
 we have three fields which are:
 - Skills
 - Educations
-- Experienced
+- Experiences
 
 ### Skills
 For skills, data binning technique is used to categorize skills into categories below.
